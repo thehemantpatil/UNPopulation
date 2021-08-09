@@ -50,7 +50,7 @@ It converts raw open data, country and year wise population estimates, into char
 <h4>Output </h4
   <ul>
    <li>
-     Click on output.png to see output.
+     Click on output.png or <a href="https://github.com/thehemantpatil/UNPopulation/blob/main/output.png" > click here </a>.
    </li>
   </ul>
 
