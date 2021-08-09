@@ -25,6 +25,10 @@ It converts raw open data, country and year wise population estimates, into char
   ```python
      git pull https://github.com/thehemantpatil/UNPopulation.git
   ```
+  or
+   ```python
+     Click on 'Code' option and download Zip file.
+  ```
   - Open Project folder into code editor.
   
   - Start Virtual Environment.
