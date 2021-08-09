@@ -47,6 +47,12 @@ It converts raw open data, country and year wise population estimates, into char
     Run the Program and analyzee output.
   </li>
 </ul>
+<h4>Output </h4
+  <ul>
+   <li>
+     Click on output.png to see output.
+   </li>
+  </ul>
 
 
 
