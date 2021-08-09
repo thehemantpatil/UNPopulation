@@ -1,58 +1,52 @@
 # UN-Population
-<hr />
 It converts raw open data, country and year wise population estimates, into charts. 
+### Whats it Does
 
-<h3>Whats it Does</h3>
-<hr>
-<ul>
-  <li>
-  Plot the India population over years.
-  </li>
-  <li>
-   Plot Bar Chart of population of ASEAN countries For the year   2014.
-  </li>
-  <li>
-  Over the years, TOTAL population of SAARC countries.
-  </li>
-  <li>
-  Plot population of ASEAN  countries as groups over the years 2004 - 2014.
-  </li>
-</ul>
-<h3>Getting Started</h3>
-<hr>
-<h4>Dependencies</h4>
- <ul>
-   <li>
-  Virtual Enviroment.
-   </li>
-  <li>
-  Matplotlib
-   </li>
- <li>
-  pandas
- </li>
-</ul>
-<h4>Executing program</h4>
- <ul>
-  <li>
-     Get above directory into your machine.
-  </li>
-  <li>
-   Open Project folder into code editor.
-  </li>
-  <li>
-    Start Virtual Environment.
-  </li>
-  <li>
-    Run the Program and analyzee output.
-  </li>
-</ul>
-<h4>Output </h4
-  <ul>
-   <li>
-     Click on output.png or <a href="https://github.com/thehemantpatil/UNPopulation/blob/main/output.png" > click here </a>.
-   </li>
-  </ul>
+---
+
+  - Plot the India population over years.
+  - Plot Bar Chart of population of ASEAN countries For the year   2014.
+  - Over the years, TOTAL population of SAARC countries.
+  - Plot population of ASEAN  countries as groups over the years 2004 - 2014.
+ 
+### Getting Started
+
+---
+
+#### Dependencies
+  - Virtual Enviroment.
+  - Matplotlib
+  - pandas
+  
+---
+
+#### Executing program
+  - Get above directory into your machine.
+  ```python
+     git pull https://github.com/thehemantpatil/UNPopulation.git
+  ```
+  - Open Project folder into code editor.
+  
+  - Start Virtual Environment.
+   ```python
+     source yourEnvName/bin/activate
+   ```
+  - Install Pandas.
+   ```python
+     pip3 install pandas
+   ```
+  - Install Matplotlib.
+   ```python
+     pip3 install Matplotlib
+   ```
+  -  Run the Program and analyze output.
+  
+---
+
+#### Output
+   Click on output.png or 
+   [click here](https://github.com/thehemantpatil/UNPopulation/blob/main/output.png)
+
 
 
 
