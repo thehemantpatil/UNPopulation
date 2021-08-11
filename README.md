@@ -34,8 +34,7 @@ It converts raw open data, country and year wise population estimates, into char
    ```python
      source yourEnvName/bin/activate
    ```
-   
-   ```
+
   - Install Matplotlib.
    ```python
      pip3 install Matplotlib
