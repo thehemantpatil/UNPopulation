@@ -10,41 +10,63 @@ It converts raw open data, country and year wise population estimates, into char
   - Plot population of ASEAN  countries as groups over the years 2004 - 2014.
  
 ### Getting Started
-
+ 
 ---
+#### Python Installation
+- To install Python on linux run the following command.
+```
+sudo apt install python3-pip
+```
+- Once process is complete check the python Version
+```
+python3 -V
+```
+- To download python on windows [click here](https://www.python.org/downloads/windows/)
 
-#### Dependencies
-  - Virtual Enviroment.
-  - Matplotlib
-  
----
+#### Virtual Environment
+- To Install virtualenv using pip3 run the command:
+```
+sudo pip3 install virtualenv 
+```
+- To create a virtual environment,you can use any name insted of venv.
+```
+virtualenv venv 
+```
+- To Activate your virtual environment:
+```
+source venv/bin/activate 
+```
+- To deactivate run the command:
+```deactivate```
 
-#### Executing program
-  - Get above directory into your machine.
+#### To Execute the program
+  - To clone project copy and paste following link into terminal.
   ```python
-     git pull https://github.com/thehemantpatil/UNPopulation.git
-  ```
-  or
-   ```python
-     Click on 'Code' option and download Zip file.
+     git clone https://gitlab.com/mountblue/cohort-17-python/hemant-patil/un-population.git
   ```
   - Download dataset from following link
     - [Click here to Download Dataset](https://datahub.io/core/population-growth-estimates-and-projections/r/population-estimates.csv)
-  - Move this dataset to project directory.
+    - Move the dataset to project directory.
 
-  - Open Project folder into code editor.
-  - Install Virtual Environment
-    - [steps to install](https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b)
-  - Start Virtual Environment.
-   ```python
-     source yourEnvName/bin/activate
-   ```
+  - Go to the Virtual Environment section and follow the steps
+    - <a href="#Virtual Environment
+">Install virtual environment </a>
+    - <a href="#Virtual Environment
+">create virtual environment </a> 
+    - <a href="#Virtual Environment
+">activate virtual environment </a> 
+  - Install all the required packages.
+  ```
+   pip install -r requirements.txt 
+  ```
+  - To run the program
+  ```
+  python UN.py
+  ```
+
+ 
+   
   
-  - Install Matplotlib.
-   ```python
-     pip3 install Matplotlib
-   ```
-  -  Run the Program and analyze output.
   
 ---
 
