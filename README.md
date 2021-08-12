@@ -42,7 +42,7 @@ source venv/bin/activate
 #### To Execute the program
   - To clone project copy and paste following link into terminal.
   ```python
-     git clone https://gitlab.com/mountblue/cohort-17-python/hemant-patil/un-population.git
+     git pull https://github.com/thehemantpatil/UNPopulation.git
   ```
   - Download dataset from following link
     - [Click here to Download Dataset](https://datahub.io/core/population-growth-estimates-and-projections/r/population-estimates.csv)
