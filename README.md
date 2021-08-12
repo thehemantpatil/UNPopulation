@@ -28,13 +28,18 @@ It converts raw open data, country and year wise population estimates, into char
    ```python
      Click on 'Code' option and download Zip file.
   ```
+  - Download dataset from following link
+    - [Click here to Download Dataset](https://datahub.io/core/population-growth-estimates-and-projections/r/population-estimates.csv)
+  - Move this dataset to project directory.
+
   - Open Project folder into code editor.
-  
+  - Install Virtual Environment
+    - [steps to install](https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b)
   - Start Virtual Environment.
    ```python
      source yourEnvName/bin/activate
    ```
-
+  
   - Install Matplotlib.
    ```python
      pip3 install Matplotlib
