@@ -49,8 +49,7 @@ source venv/bin/activate
     - Move the dataset to project directory.
 
   - Go to the Virtual Environment section and follow the steps
-    - <a href="#Virtual Environment
-">Install virtual environment </a>
+    - <a href="#python-installation">Install virtual environment </a>
     - <a href="#Virtual Environment
 ">create virtual environment </a> 
     - <a href="#Virtual Environment
